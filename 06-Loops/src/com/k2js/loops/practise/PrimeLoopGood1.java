@@ -1,0 +1,1 @@
+//Requirement: to print whether number is prime or nor
